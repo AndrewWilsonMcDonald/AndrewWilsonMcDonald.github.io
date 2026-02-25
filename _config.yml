@@ -1,0 +1,9 @@
+title: Andrew "Drew" McDonald
+description: Journalist and student at Fordham University
+url: "https://andrewwilsonmcdonald.github.io"
+
+# Don't touch these unless you know what you're doing
+markdown: kramdown
+exclude:
+  - README.md
+  - HOW-TO-EDIT.md
